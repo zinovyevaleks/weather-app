@@ -1,0 +1,12 @@
+.forecast {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.forecast .swiper-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  min-height: 50px;
+}
